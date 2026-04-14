@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thanh Thanh</h1>
 <h3 align="center">A passionate AI Student from VietNam</h3>
 
-- 🔭 I’m currently studying at **FPT Unversity**
+-  I’m currently studying at **FPT Unversity**
 
-- ⚡ Fun fact **I love street workout, but I have to code it down.**
+- **I love street workout, but I have to code it down.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
