@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Ho</h1>
+<h1 align="center">Hi 👋, I'm Thanh Thanh</h1>
 <h3 align="center">A passionate AI Student from VietNam</h3>
 
 - 🔭 I’m currently studying at **FPT Unversity**
