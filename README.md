@@ -6,9 +6,6 @@ My name is **Thanh Ho**. I am a 3rd-year **Artificial Intelligence** student. I 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thanh-thanh-b0915736b/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ThanhxThanh)
 
----
-
-![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=ThanhxThanh&show_icons=true&theme=tokyonight)
 
 ---
 
