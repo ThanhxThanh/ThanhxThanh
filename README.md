@@ -8,7 +8,7 @@ My name is **Thanh Ho**. I am a 3rd-year **Artificial Intelligence** student. I 
 
 ---
 
-![Thanh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThanhxThanh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=ThanhxThanh&show_icons=true&theme=tokyonight)
 
 ---
 
